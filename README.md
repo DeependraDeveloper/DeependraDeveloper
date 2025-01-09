@@ -6,7 +6,7 @@ I'm Deependra Bahadur R, a passionate software developer based in Bangalore, Ind
 
 **Location:** Bangalore, India (UTC +5:30)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ravikovind.github.io-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ravikovind.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ravikovind.github.io-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://ravikovind.github.io](https://deependradeveloper.github.io/))
 [![GitHub](https://img.shields.io/badge/GitHub-ravikovind-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravikovind)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ravi--kovind-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravikovind)
 [![Twitter](https://img.shields.io/badge/Twitter-ravi__kovind-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ravi_kovind)
