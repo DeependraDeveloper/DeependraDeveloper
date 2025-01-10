@@ -8,7 +8,7 @@ I'm Deependra Bahadur R, a passionate software developer based in Bangalore, Ind
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-deependradeveloper.github.io-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://deependradeveloper.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-deependradeveloper-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeependraDeveloper)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-deependradeveloper-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deependradeveloper)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-deependrabahadur-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deependrabahadur/)
 
 Unleashing Limitless Potential: Expertly Crafting Cutting-Edge Cross-Platform Applications, Exceptional Websites, and Everything in Between and Redefining Digital Excellence. That's what I do.
 
