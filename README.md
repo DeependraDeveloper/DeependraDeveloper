@@ -32,10 +32,10 @@ Unleashing Limitless Potential: Expertly Crafting Cutting-Edge Cross-Platform Ap
 
 ## Education
 
-- **NIT Allahabad**
-  - *Bachelor of Technology*
-  - *2017 - 2021*
-  - *Location: Allahabad, India*
+- **AIMS Institutes**
+  - *Bachelor of Science in Computer Science*
+  - *2018 - 2022*
+  - *Location: Bangalore, India*
 
 Feel free to reach out for collaboration or just to say hello! 😊
 
